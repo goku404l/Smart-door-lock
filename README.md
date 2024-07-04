@@ -1,7 +1,7 @@
 # Smart-door-lock
 A smart door lock with 8051 microcontroller and esp8266 
 
-Working
+Working -
 In the smart door locking system, there are two ways to unlock the door: 
 through a keypad or by using a phone. The keypad is connected to the 
 8051 microcontroller as an input device, while the buzzer and LCD display 
